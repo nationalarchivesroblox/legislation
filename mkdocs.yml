@@ -1,9 +1,9 @@
 site_name: State of Mayflower Legislation
-site_url: https://mayflower-state.github.io/legislation
+site_url: https://nationalarchivesroblox.github.io/legislation/
 site_author: Southside Studios
 site_description: Active legislation for the State of Mayflower Roblox group
 repo_name: mayflower-state/legislation
-repo_url: https://github.com/mayflower-state/legislation
+repo_url: https://github.com/nationalarchivesroblox/legislation
 
 theme:
   name: material
